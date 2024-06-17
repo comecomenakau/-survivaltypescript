@@ -1,2 +1,1 @@
-# typescript_study
 # survivalTypescript
